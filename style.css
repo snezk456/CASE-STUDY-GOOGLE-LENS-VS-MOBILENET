@@ -6,20 +6,10 @@ text-align: center;
 }
 .test_image_and_result
 {
-    border-radius: 20px;
     background-color: gray;
 }
-.output_google_lens
+img
 {
-    background-color: white;
-    text-align: center;
-    border-radius: 20px;
     width: 250px;
-}
-.output_mobilenet
-{
-    background-color: white;
-    text-align: center;
-    border-radius: 20px;
-    width: 250px;
+    height: 250px;
 }
